@@ -1,3 +1,4 @@
 node_modules
-/front-end
-/plugins
+front-end-node
+front-end
+plugins
